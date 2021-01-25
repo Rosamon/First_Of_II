@@ -1,7 +1,9 @@
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-from keras.models import load_model
+#keras? tenser////
+
+
 from tkinter import *
 import tkinter as tk
 #import win32gui # на линуксе не знаю чем заменить, так что без понятия работает ли оно
